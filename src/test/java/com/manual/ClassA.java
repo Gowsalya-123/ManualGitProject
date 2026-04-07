@@ -13,4 +13,17 @@ private void method3() {
 	// TODO Auto-generated method stub
 
 }
+
+private void javaCourse() {
+	System.out.println("JAVA");
+
+}
+
+private void pythonCourse() {
+	System.out.println("Python");
+}
+
+private void sqlCourse() {
+	System.out.println("SQL");
+}
 }
