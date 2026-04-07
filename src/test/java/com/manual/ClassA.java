@@ -26,4 +26,19 @@ private void pythonCourse() {
 private void sqlCourse() {
 	System.out.println("SQL");
 }
+
+private void english() {
+	System.out.println("English");
+}
+
+private void tamil() {
+	System.out.println("Tamil");
+}
+private void maths() {
+	System.out.println("Maths");
+
+}
+
+
+
 }
